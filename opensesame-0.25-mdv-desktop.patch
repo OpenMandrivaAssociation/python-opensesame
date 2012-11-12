@@ -1,0 +1,11 @@
+Index: opensesame-0.25/data/opensesame.desktop
+===================================================================
+--- opensesame-0.25.orig/data/opensesame.desktop
++++ opensesame-0.25/data/opensesame.desktop
+@@ -6,5 +6,5 @@ TryExec=opensesame
+ Exec=opensesame
+ Icon=applications-science
+ Type=Application
+-Categories=Development;IDE;Science
++Categories=Development;IDE;Science;
+ StartupNotify=true
