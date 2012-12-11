@@ -42,3 +42,10 @@ highlighting.
 %install
 PYTHONDONTWRITEBYTECODE= python setup.py install --root=%{buildroot}
 chmod 755 %{buildroot}%{py_puresitedir}/libopensesame/misc.py
+
+
+%changelog
+* Tue Dec 06 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.25-1
++ Revision: 738359
+- imported package python-opensesame
+
