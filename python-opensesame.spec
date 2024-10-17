@@ -7,7 +7,7 @@ Release:	1
 Summary:	Graphical experiment builder
 Group:		Sciences/Other
 License:	GPLv2
-URL:		http://www.cogsci.nl/software/opensesame
+URL:		https://www.cogsci.nl/software/opensesame
 Source0:	http://files.cogsci.nl/software/opensesame/opensesame_%{upver}-%{uprel}.tar.gz
 Patch0:		opensesame-0.25-mdv-desktop.patch
 BuildArch:	noarch
